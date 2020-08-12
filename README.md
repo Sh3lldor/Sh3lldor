@@ -16,17 +16,22 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![PS](https://img.shields.io/powershellgallery/v/6)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![PS](https://img.shields.io/badge/Powershell-v6.0-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-**Some of the technologies I have worked with**
+**Some of the tools & technologies I have work with**
 
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-red)
+![Cisco](https://img.shields.io/badge/Cisco-blue)
+![Juniper](https://img.shields.io/badge/Juniper-green)
+![Scada](https://img.shields.io/badge/Scada-purple)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+
 
 **Some of my favorite open source projects**
 
@@ -34,3 +39,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Jinja](https://img.shields.io/badge/Jinja-v2.11.2-blue)]()
 [![Tor](https://img.shields.io/badge/-Tor-000000?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+
+
+![elads github stats](https://github-readme-stats.vercel.app/api?username=Sh3lldor&show_icons=true&hide_border=true)
