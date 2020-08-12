@@ -43,4 +43,4 @@
 [![Tor](https://img.shields.io/badge/-Tor-000000?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 [![Brave](https://img.shields.io/badge/Brave-red)](https://github.com/brave/brave-browser)
 
-![elads github stats](https://github-readme-stats.vercel.app/api?username=Sh3lldor&count_private=true)
+![elads github stats](https://github-readme-stats.vercel.app/api?username=Sh3lldor&count_private=true&show_icons=true&theme=dracula)
