@@ -17,6 +17,7 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PS](https://img.shields.io/badge/Powershell-v6.0-blue)
+![Bash](https://img.shields.io/badge/Bash-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 **Some of the tools & technologies I have work with**
