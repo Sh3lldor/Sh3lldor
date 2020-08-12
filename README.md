@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eladpt7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eladpt/)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FElad_PT)](https://twitter.com/Elad_PT)
+[![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Elad_PT)
 
 **Some languages I use**
 
