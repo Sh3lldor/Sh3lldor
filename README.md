@@ -41,4 +41,4 @@
 [![Tor](https://img.shields.io/badge/-Tor-000000?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
 
-![elads github stats](https://github-readme-stats.vercel.app/api?username=Sh3lldor&show_icons=true&hide_border=true)
+![elads github stats](https://github-readme-stats.vercel.app/api?username=Sh3lldor&count_private=true)
