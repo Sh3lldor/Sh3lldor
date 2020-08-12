@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eladpt/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FElad_PT)](https://twitter.com/Elad_PT)
 
-**Some languages I have use**
+**Some languages I use**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -20,7 +20,7 @@
 ![Bash](https://img.shields.io/badge/Bash-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-**Some of the tools & technologies I have work with**
+**Some of the tools & technologies I work with**
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-red)
