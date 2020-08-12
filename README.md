@@ -35,10 +35,12 @@
 
 **Some of my favorite open source projects**
 
-[![Flask](https://img.shields.io/badge/flask-v1.1.1-blue)]()
+[![Linux](https://img.shields.io/badge/Linux-blue)](https://github.com/torvalds/linux)
+[![Flask](https://img.shields.io/badge/flask-v1.1.1-blue)](https://github.com/pallets/flask)
+[![GO](https://img.shields.io/badge/go-green)](https://github.com/golang/go)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![Jinja](https://img.shields.io/badge/Jinja-v2.11.2-blue)]()
+[![Jinja](https://img.shields.io/badge/Jinja-v2.11.2-blue)](https://github.com/pallets/jinja)
 [![Tor](https://img.shields.io/badge/-Tor-000000?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
-
+[![Brave](https://img.shields.io/badge/Brave-red)](https://github.com/brave/brave-browser)
 
 ![elads github stats](https://github-readme-stats.vercel.app/api?username=Sh3lldor&count_private=true)
