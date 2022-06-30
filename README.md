@@ -4,6 +4,7 @@
 **Hi, I'm @elad_pt**
 
 -   :computer: Penetration Tester & Red-Teamer.
+-   :computer: co-founder of redeye-framework/Redeye.
 -   :mortar_board: CS student.
 -   :mount_fuji: Self starter.
 -   :mailbox: Ask me about accessibility, cybersecurity, Penetration Testing, back-end, or literally anything!
@@ -15,6 +16,7 @@
 **Some languages I use**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![CPP](https://img.shields.io/badge/-CPP-000000?style=flat&logo=CPP)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PS](https://img.shields.io/badge/Powershell-v6.0-blue)
 ![Bash](https://img.shields.io/badge/Bash-blue)
