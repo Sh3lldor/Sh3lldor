@@ -3,7 +3,7 @@
 
 **Hi, I'm @elad_pt**
 
--   :computer: Penetration Tester & Red-Teamer.
+-   :computer: Security Researcher.
 -   :computer: co-founder of redeye-framework/Redeye.
 -   :mortar_board: CS student.
 -   :mount_fuji: Self starter.
